@@ -7,7 +7,7 @@
 html{
     font-size:10px;
     font-family: 'Montserrat',sans-serif;
-    margin:auto;
+    /* margin:auto; */
 }
 a{
     text-decoration:none;
@@ -112,7 +112,7 @@ header {
   
   header a:hover {
     color: red;
-    font-weight: 800;
+    font-weight: 400;
   }
 
 
@@ -269,7 +269,7 @@ header {
     top:19px;
     height:98%;
     width: 98%;
-    border:7px solid crimson;
+    border:7px solid red;
     z-index: -1;
 
 }
@@ -316,7 +316,7 @@ header {
     margin-bottom: -5px;
 }
 .skills_head h2 span{
-    color: #e74d06;
+    color: red;
 }
 .skills_main{
     width: 100%;
@@ -521,12 +521,12 @@ header {
       
 .category-list li.active {
         font-weight: bold;
-        background-color: #3b82f6;
+        background-color: #f63b3b;
         color: #fff;
       }
       
 .category-list li:hover {
-        background-color: #d4e3fc;
+        background-color: #fcd4e1;
       }
       
       
@@ -670,7 +670,7 @@ header {
       top: 34px;
       height: 98%;
       width: 98%;
-      border: 10px solid crimson;
+      border: 10px solid red;
     }
   
     #about .col-right {
